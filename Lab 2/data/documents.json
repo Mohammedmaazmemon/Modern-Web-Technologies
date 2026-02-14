@@ -1,0 +1,15 @@
+[
+  {
+    "id": "a1feb51d-864e-4ae9-a5b9-50b7f9db5c95",
+    "clientRef": "CLI-9812",
+    "docType": "ADDRESS_PROOF",
+    "filename": "Address.pdf",
+    "contentType": "text/plain",
+    "sizeBytes": 7,
+    "checksum": "e6063978dc4f4ef72cdfb89034627df838e6e908779b35aa085b57523ca72926",
+    "status": "REJECTED",
+    "reason": "filename extension does not match contentType",
+    "createdAt": "2026-02-09T00:30:35.718Z",
+    "updatedAt": "2026-02-09T00:30:35.718Z"
+  }
+]
